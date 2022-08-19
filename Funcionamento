@@ -1,0 +1,19 @@
+
+COMO FUNCIONA:
+
+Ao rodar o programa é pedido um registro inicial para começar o sistema
+	o programa primeiro pede um nome 
+	depois pede uma idade
+
+após o primeiro registro um menu aparece com as opções 1, 2, 3 e 4
+
+1: Adicionar um registro a mais
+        digitar nome e idade
+
+2: Exibir os registros
+        exibe todos os registros inseridos pelo usuario
+
+3: Exibe os registros a partir de sua categoria
+
+4: Sai do programa
+   
